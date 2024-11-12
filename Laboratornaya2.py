@@ -160,7 +160,7 @@ def set_mode_for_mat(mode):
 
 def main():
     epsilon = 'ε'
-
+    set_mode_for_mat("easy")
 
     is_done = False
 
@@ -219,3 +219,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
